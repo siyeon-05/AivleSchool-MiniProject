@@ -13,7 +13,7 @@
 <img width="640" height="349" alt="Image" src="https://github.com/user-attachments/assets/0f2a09e3-fedf-4fb2-9f6e-d6de63359b6d" />
 
 책 등록 화면
-
+<img width="811" height="857" alt="Image" src="https://github.com/user-attachments/assets/ffb93e4d-b1a8-4b43-bf94-a2901c80d866" />
 
 ---
 
