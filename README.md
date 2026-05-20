@@ -7,10 +7,12 @@
 추후 백엔드의 **AI 도서 표지 생성 기능**과 자연스럽게 연동될 수 있도록 UI·데이터 구조를 설계했다.
 
 메인 화면
-
+<img width="1280" height="699" alt="Image" src="https://github.com/user-attachments/assets/5ad231e8-418b-4e2c-a3e1-066dc891daf6" />
 로그인 화면
 
+<img width="1280" height="697" alt="Image" src="https://github.com/user-attachments/assets/f1a4bfb6-3110-40a6-9485-5820d3240369" />
 책 등록 화면
+
 <img width="405" height="428" alt="Image" src="https://github.com/user-attachments/assets/ffb93e4d-b1a8-4b43-bf94-a2901c80d866" />
 ---
 
