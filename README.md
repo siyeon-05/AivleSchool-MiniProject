@@ -11,7 +11,7 @@
 로그인 화면
 
 책 등록 화면
-<img width="811" height="857" alt="Image" src="https://github.com/user-attachments/assets/ffb93e4d-b1a8-4b43-bf94-a2901c80d866" />
+<img width="405" height="428" alt="Image" src="https://github.com/user-attachments/assets/ffb93e4d-b1a8-4b43-bf94-a2901c80d866" />
 ---
 
 ## Frontend 핵심 기능
