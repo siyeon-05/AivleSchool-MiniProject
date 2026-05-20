@@ -6,13 +6,13 @@
 사용자는 로그인 후, **자신만의 책을 등록·조회·수정·삭제**할 수 있으며,  
 추후 백엔드의 **AI 도서 표지 생성 기능**과 자연스럽게 연동될 수 있도록 UI·데이터 구조를 설계했다.
 
-메인 화면
+### 메인 화면
 <img width="640" height="350" alt="Image" src="https://github.com/user-attachments/assets/8df1d499-cfdb-49c6-8595-25a003be027e" />
 
-로그인 화면
+### 로그인 화면
 <img width="640" height="349" alt="Image" src="https://github.com/user-attachments/assets/0f2a09e3-fedf-4fb2-9f6e-d6de63359b6d" />
 
-책 등록 화면
+### 책 등록 화면
 <img width="405.5" height="428.5" alt="Image" src="https://github.com/user-attachments/assets/ffb93e4d-b1a8-4b43-bf94-a2901c80d866" />
 
 ---
